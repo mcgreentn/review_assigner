@@ -21,3 +21,5 @@ Add the following line to your requirements file:
 Use the runner script provided 
 OR
 Build your own script and import the reviewer after installing the library into your own project
+
+Use the "output_loc" parameter on the ```assign_reviews``` function to export output to CSV format
