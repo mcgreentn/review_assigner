@@ -14,6 +14,7 @@ A review assignment library
 
 ### Via requirements.txt
 Add the following line to your requirements file:
+
 ```review_assigner @ git+https://github.com/mcgreentn/review_assigner.git```
 
 # How to Use
